@@ -1,5 +1,5 @@
 # prism_journey
 
-Game for wichacks.
+Game for WICHacks.
 
 The purpose is to educate the player about BIPOC LGBTQIA+ youth statistics and figures. 
